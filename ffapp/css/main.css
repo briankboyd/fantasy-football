@@ -1,0 +1,59 @@
+
+html, body {
+	max-width: 100%;
+}
+
+body {
+	padding-bottom: 70px;
+	overflow: hidden;
+}
+
+.ff-height {
+	height: 100%;
+}
+
+.ff-divider-vertical {
+	border-right: 1px solid #fff;
+}
+
+.ff-pad-top {
+	padding-top: 50px;
+}
+
+.ff-pad-bottom {
+	padding-bottom: 50px;
+}
+.ff-overflow {
+    overflow: auto;
+}
+.ff-calc-height {
+   max-height: 600px;
+    
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 70px;
+  background-color: #1E1E1E;
+}
+
+.ff-flush-left {
+	padding-left: 0;
+	margin-left: 0;
+}
+
+.ff-flush-right {
+	padding-right: 0;
+	margin-right: 0;
+}
+
+.ff-list-font {
+	font-size: 12px;
+}
+
+.ff-list-height {
+	height: 60px;
+}
